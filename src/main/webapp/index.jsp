@@ -1,7 +1,7 @@
 <html>
 <body>
-<h2><%= "Hello World" %></h2>
-<h2><%= " Phani Kumar" %></h2>
-<h2><%= "a Poll SCM automation " %></h2>
+<h2><%= "Hello World!" %></h2>
+<h2><%= " Shivasai Gundlapally " %></h2>
+<h2><%= "This triggered using poll scm automation " %></h2>
 </body>
 </html>
